@@ -1,4 +1,6 @@
 /* Checkpoint: Level 2 */
+/* Prettyprint */
+
 public class Solution {
     public int[][] prettyPrint(int A) {
         int size = 2*A - 1;
