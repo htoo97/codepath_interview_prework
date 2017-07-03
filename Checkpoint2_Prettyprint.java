@@ -1,5 +1,8 @@
 /* Checkpoint: Level 2 */
 /* Prettyprint */
+/*
+ * Print concentric rectangular pattern in a 2d matrix. 
+ */
 
 public class Solution {
     public int[][] prettyPrint(int A) {

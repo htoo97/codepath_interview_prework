@@ -1,5 +1,8 @@
 /* Checkpoint: Level 3 */
 /* Kth Smallest Element in the Array */
+/*
+ * Find the kth smallest element in an unsorted array of non-negative integers.
+ */
 
 public class Solution {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
